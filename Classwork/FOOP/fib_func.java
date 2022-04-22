@@ -1,4 +1,4 @@
-package Classwork;
+package Classwork.FOOP;
 
 public class fib_func {
     public static int x1 = 0;

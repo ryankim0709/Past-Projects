@@ -1,6 +1,5 @@
 package Classwork.FOOP;
 import java.io.*;
-import java.util.*;
 
 public class eight_ball {
     public static void main(String[] args) throws IOException {

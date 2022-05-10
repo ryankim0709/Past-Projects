@@ -1,4 +1,4 @@
-package Java_Schedule_Maker;
+package Classes.FOOP.Projects.Java_Schedule_Maker;
 
 import javax.swing.*;
 

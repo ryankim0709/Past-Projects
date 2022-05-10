@@ -1,4 +1,4 @@
-package Classwork.FOOP.Week_Day;
+package Classes.FOOP.Classwork.Week_Day;
 
 import java.io.*;
 

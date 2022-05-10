@@ -1,4 +1,4 @@
-package Java_ATM;
+package Classes.FOOP.Projects.Java_ATM;
 import java.util.*;
 
 public class Account {

@@ -1,4 +1,4 @@
-package Classwork.FOOP.Temp_Converter;
+package Classes.FOOP.Classwork.Temp_Converter;
 
 public class Converter {
     private double temp;
@@ -24,7 +24,7 @@ public class Converter {
         this.unit = 'F';
         return Double.toString(temp) + "C is " + Double.toString((temp - 32.0) / 1.8) + "C";
     }
-    
+
     public String convert() {
         if (this.unit == 'C') {
             return toF();

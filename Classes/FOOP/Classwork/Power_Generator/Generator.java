@@ -1,4 +1,4 @@
-package Classwork.FOOP.Power_Generator;
+package Classes.FOOP.Classwork.Power_Generator;
 import java.lang.Math;
 
 public class Generator {

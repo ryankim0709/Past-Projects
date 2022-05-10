@@ -1,4 +1,4 @@
-package Classwork.FOOP.Valid_Date_Checker;
+package Classes.FOOP.Classwork.Valid_Date_Checker;
 
 public class DateChecker {
     int month, day, year;

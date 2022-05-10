@@ -1,4 +1,4 @@
-package Java_ATM;
+package Classes.FOOP.Projects.Java_ATM;
 
 public class Loan {
     // Setting up variables

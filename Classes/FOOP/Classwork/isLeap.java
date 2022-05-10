@@ -1,4 +1,4 @@
-package Classwork.FOOP;
+package Classes.FOOP.Classwork;
 import java.io.*;
 
 public class isLeap {

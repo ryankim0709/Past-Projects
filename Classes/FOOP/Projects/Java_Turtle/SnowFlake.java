@@ -31,7 +31,7 @@ public class SnowFlake {
         for (int i = 0; i < sides; i++) {
             updateColor();
             drawSquares();
-            turtle.turn(360.0/(sides+6));
+            turtle.turn(360.0/(sides));
         }
     }
 

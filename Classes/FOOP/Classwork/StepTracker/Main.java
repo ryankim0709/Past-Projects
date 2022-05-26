@@ -1,3 +1,4 @@
+package Classes.FOOP.Classwork.StepTracker;
 public class Main {
     public static void main(String[] args) {
         StepTracker tr = new StepTracker(10000);

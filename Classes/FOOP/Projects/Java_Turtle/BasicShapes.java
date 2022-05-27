@@ -40,7 +40,7 @@ public class BasicShapes {
         for (int i = 0; i < 360 / degrees; i++) {
             updateColor();
             turtle.forward(50);
-            turtle.turn(18);
+            turtle.turn(degrees);
         }
     }
 
